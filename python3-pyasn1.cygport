@@ -1,0 +1,9 @@
+inherit python3-distutils
+
+NAME="python3-pyasn1"
+VERSION=0.1.7
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Py3K ASN.1 library"
+DESCRIPTION="ASN.1 types and codecs (BER, CER, DER) implemented as a Python
+library module."
